@@ -1,19 +1,34 @@
 Vaga
 ====
 
-[Preencha aqui a vaga que você pretende]
+* Área de Esporte
+* Produtos Globo.com
+* Área de Jornalismo
 
-__Dicas:__
-* Escolher uma ou mais vagas disponíveis é importante. Se você não escolher uma vaga, é provável que ninguém olhe pro seu CV.
 
 CV
 ==
 
-[Preencha aqui o seu cv]
+__Experiência__
 
-__Dicas:__
-* Coloque o seu CV aqui, __não coloque só um link para um site externo tipo LinkedIn e about.me__. Você pode até colocar o seu linkedin, mas como uma informação a mais no seu CV.
-* Obedeça a formatação do markdown do GitHub. Isso deixa a leitura do seu currículo mais agradável, e provavelmente mais pessoas da Globo.com irão lê-lo.
-	* [Markdown syntax guide] (http://daringfireball.net/projects/markdown/syntax)
-	* [GitHub Flavored Markdown] (http://github.github.com/github-flavored-markdown/)
-	* Pressione M enquanto lê o README.mkd no projeto [IWantToWorkAtGloboCom] (http://github.com/globocom/IWantToWorkAtGloboCom), para ver o cheat-sheet
+* Sou Senior Front-end Engineer na Queremos/WeDemand, Fui Senior Front-end de na Eventials.com e sou membro do GT de Acessibilidade do W3C Brasil.
+* Trabalho com Web desde 2002, mas profissionalmente desde 2006.
+* Já palestrei e fui keynote speaker em eventos do W3C-WWW2013, Conferência Web W3C Brasil (2010, 2011, 2012), 7Masters Openweb, TDC 2013, FATEC Jaú / Carapicuíba, Anhanguera Bauru.
+* Sou Fundador / Organizador do [Frontinterior] (http://www.frontinterior.com.br)
+* Nas horas vagas, pesquisador apaixonado por tecnologias ligadas à openweb, front-end, semântica e cross-browser. 
+* Possuo graduação em Produção Audiovisual pela Universidade Paulista (2006), é Pós graduado em Gestão da Tecnologia da Informação pela Anhanguera Educacional (2010). 
+* Atualmente é desenvolverdor de interfaces, atuando principalmente nos seguintes temas: webstandards, web semântica, acessibilidade, HTML5, CSS, RWD e openweb plataform.
+
+	* [Linkedin] (http://linkedin.com/in/ridjohansen)
+	* [GitHub] (http://github..com/ridjohansen)
+	* [Facebook] (http://fb.com/ridjohansen)
+	* [Twitter] (http://twitter.com/ridjohansen)
+	* [Slid.es] (http://slid.es/ridjohansen)
+	* [Slideshare] (http://slideshare.com/ridjohansen)
+	* [Lattes] (http://lattes.cnpq.br/9150161435364765)
+
+__Contato__
+
+* E-mail: [ridjohansen@gmail.com] (mailto:ridjohansen@gmail.com)
+* Telefone: 021 996-896-534
+
